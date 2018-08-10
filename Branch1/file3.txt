@@ -1,0 +1,3 @@
+difference between SVN and GIT
+SVN centralized server,do not have local repository,can handle large files, revision number
+GIT Distributed server, having remote and local repo, cannot handle large files, SHA 1 algorithm
